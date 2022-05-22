@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.2_explicit-and-implicit-implementation-of-interfaces", "10.2_explicit-and-implicit-implementation-of-interfaces.csproj", "{B22C034D-E321-4995-B0EC-E58CBCAA4EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.3_multiple-implementation-of-interfaces", "..\10.3_multiple-implementation-of-interfaces\10.3_multiple-implementation-of-interfaces.csproj", "{A867FA69-69FC-4801-96A2-16D9D4891306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.4_covariant-and-contravariant-interfaces", "..\10.4_covariant-and-contravariant-interfaces\10.4_covariant-and-contravariant-interfaces.csproj", "{7345546C-A90B-453A-ABFF-980BB423EF6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B22C034D-E321-4995-B0EC-E58CBCAA4EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22C034D-E321-4995-B0EC-E58CBCAA4EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22C034D-E321-4995-B0EC-E58CBCAA4EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22C034D-E321-4995-B0EC-E58CBCAA4EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A867FA69-69FC-4801-96A2-16D9D4891306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A867FA69-69FC-4801-96A2-16D9D4891306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A867FA69-69FC-4801-96A2-16D9D4891306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A867FA69-69FC-4801-96A2-16D9D4891306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7345546C-A90B-453A-ABFF-980BB423EF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7345546C-A90B-453A-ABFF-980BB423EF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7345546C-A90B-453A-ABFF-980BB423EF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7345546C-A90B-453A-ABFF-980BB423EF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B013058-CCCD-4B36-9888-D05976C44D59}
+	EndGlobalSection
+EndGlobal
