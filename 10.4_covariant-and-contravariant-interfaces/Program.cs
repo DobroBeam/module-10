@@ -47,8 +47,9 @@
 
 var user = new User();
 var account = new Account();
-IUpdater<Account> updater = new UserService();
 
+var userService = new UserService();
+userService.Update(user);
 public class User {}
 public class Account : User {}
 //Определён обобщённый интерфейс:
